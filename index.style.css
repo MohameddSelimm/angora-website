@@ -1,0 +1,226 @@
+body * {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+.navbar-light .navbar-nav .nav-link:hover
+{
+    color: #f25454 !important;
+}
+.navbar-light .navbar-nav .nav-link .active
+{
+    color: #f25454 !important;
+}
+.bg-light
+{
+  background-color: revert !important;
+
+}
+
+.slider
+{
+    width: 100%; 
+}
+.imgs
+{
+    position: relative;
+}
+.wdt{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: 700;
+    font-size: 80px;
+    text-align: center;
+    color: #fff;
+  }
+  .title h1
+  {
+      font-size: 2rem;
+      font-weight: 600;
+      color: rgb(197, 197, 197);
+      padding-bottom: 15px;
+  }
+  .title h2
+  {
+      position: absolute;
+      font-size: 3.5rem;
+      font-weight: 500;
+  }
+  .Aboutus
+  {
+      margin-bottom: 50px;
+  }
+  .Aboutus hr
+  {
+    border: 1px solid rgb(7, 6, 6);
+    width: 35px;
+    
+
+  }
+  .Aboutus hr:hover
+  {
+      width: 70px;
+  }
+  .Aboutus p
+  {
+    font-size: 18px;
+    color:#999;
+    margin-bottom: 70px;
+  }
+  .margin
+  {
+    margin-left: 298px !important;
+  }
+.para
+{
+    font-size: 14px !important;
+    color: #666 !important;
+}
+  
+.team-details h5
+
+{
+    font-size: 16px;
+    font-weight: 600;
+    color:black;
+}
+.team-details h5:hover
+{
+    color: #f25454;
+}
+.team-details span
+{
+    font-size: 14px;
+    font-weight: 500;
+    color:#666;
+    
+
+}
+.team-details
+{
+    margin-bottom: 70px;
+}
+.recent hr
+  {
+    border: 1px solid rgb(7, 6, 6);
+    width: 35px;
+    
+
+  }
+  .recent hr:hover
+  {
+      width: 70px;
+  }
+  .recent p
+  {
+    font-size: 18px;
+    color:#999;
+    margin-bottom: 70px;
+  }
+  .contactus h3
+  {
+    line-height: 50px;
+    font-weight: 600;
+    font-size: 40px;
+    color: #282828;
+  }
+.service
+{
+    background-color: #f1f1f1;
+}
+  .service hr
+  {
+    border: 1px solid rgb(7, 6, 6);
+    width: 35px;
+    
+
+  }
+  .service hr:hover
+  {
+      width: 70px;
+  }
+  .service p
+  {
+    font-size: 18px;
+    color:#999;
+    margin-bottom: 70px;
+  }
+  .s h3
+  {
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  .s h3:hover{
+      color:#f25454;
+  }
+  .s p{
+    color: #666;
+    font-size: 14px;
+    line-height: 1.75em;
+  }
+  .s i
+  {
+    color:#f25454;
+  }
+
+  .selim hr
+  {
+    border: 1px solid rgb(7, 6, 6);
+    width: 35px;
+    
+
+  }
+  .selim hr:hover
+  {
+      width: 70px;
+  }
+  .selim p
+  {
+    font-size: 18px;
+    color:#999;
+    margin-bottom: 70px;
+  }
+  .selim h3
+  {
+    font-size: 16px;
+    line-height: 16px; 
+    color:#282828;
+    font-weight: 800; 
+  }
+  .selim span
+  {
+    color:#666;
+    margin-top: 7px;
+    font-size: 14px;
+  }
+  .content p{
+    font-size: 25px;
+    line-height: 1.5em;
+    color: #666;
+    margin-top: 20px;
+  }
+  .cards hr
+  {
+    border: 1px solid rgb(7, 6, 6);
+    width: 35px;
+    
+
+  }
+  .cards hr:hover
+  {
+      width: 70px;
+  }
+  .cards p
+  {
+    font-size: 18px;
+    color:#999;
+    margin-bottom: 70px;
+  }
